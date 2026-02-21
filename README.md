@@ -75,8 +75,9 @@ python tools/test_ultrasonic.py
 
 ## Project History
 
-Originally developed in 2023 as an engineering prototype.  
-Refactored and documented in 2026 to improve maintainability and system integration.
+Contributors are listed based on GitHub history. Originally developed in late 2023 as an engineering prototype.
+
+Migrated to my personal GitHub for portfolio purposes in early 2026; also refactored and documented to improve maintainability and system integration. Original authorship and commit history have been preserved.
 
 ---
 
