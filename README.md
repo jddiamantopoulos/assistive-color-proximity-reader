@@ -82,17 +82,17 @@ Refactored and documented in 2026 to improve maintainability and system integrat
 
 ## Contributors
 
-- **Jonathan Diamantopoulos (Primary Author & Maintainer)**  
+- **@jddiamantopoulos (Primary Author & Maintainer)**  
   - Designed and implemented color detection and text-to-speech system  
   - Developed weighted RGB classification algorithm  
   - Finalized ultrasonic sensing and proximity feedback  
   - Led system integration, refactoring, and documentation  
 
-- **Hai Tang**  
+- **@hiitshai**  
   - Initial GitHub setup and early commits  
   - Hardware wiring and configuration  
 
-- **Matthew Binion**  
+- **@pack911**  
   - Hardware configuration  
   - Ultrasonic sensor prototyping  
 
