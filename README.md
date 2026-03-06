@@ -8,6 +8,8 @@ The system detects dominant colors, converts them to speech, and provides obstac
 
 ## Screenshot
 
+### Wearable Prototype
+
 ![Smart Glasses Prototype](screenshots/glasses-prototype.png)
 
 ---
