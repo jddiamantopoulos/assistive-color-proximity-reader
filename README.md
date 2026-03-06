@@ -6,6 +6,12 @@ The system detects dominant colors, converts them to speech, and provides obstac
 
 ---
 
+## Screenshot
+
+![Smart Glasses Prototype](screenshots/glasses-prototype.png)
+
+---
+
 ## Features
 
 - Real-time color detection using TCS34725 sensor  
